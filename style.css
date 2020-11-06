@@ -1,0 +1,139 @@
+.navbar{
+	background-color: #518DBC;
+	text-align: center;
+}
+
+.logo{width: 100px; border-radius: 200%;}
+
+header{
+	text-align: center;
+	background-color: #518DBC;
+}
+
+.links{display:block; margin: 0 auto;}
+
+.navbar-toggler{
+	position: absolute;
+	top: -90px;
+	left: 10px;
+}
+
+.navbar-brand{font-family: 'Staatliches', cursive;}
+
+.nav-link{font-family: 'Oswald', sans-serif;}
+
+.backToTop{
+	position: fixed;
+    right: 0;
+    bottom: 0;
+    font-size: 50px;
+    width: 74px;
+    height: 76px;
+    background-color: #c0cf3b82;
+    text-align: center;
+    z-index: 100;
+    margin: 0 10px;
+}
+
+.btn-light{
+	background-color: transparent;
+    border-color: transparent;
+    font-size: 46px;
+    text-align: left;
+}
+
+/*About*/
+
+h2{
+	padding: 20px 0 20px 30px;
+	font-size: 50px; 
+	font-family: 'Courgette',cursive;
+}
+
+.body-text{
+	margin: 0 15px;
+	text-align: justify;
+	font-size: 30px;
+	color: #fdfff4;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.black{color: black;}
+
+#about{
+    background-color: #c0cf3b;
+    padding: 20px 12px;
+}
+
+/*What*/
+
+.graph{width: 80%;}
+
+.legend{width: 100%;}
+
+.graph-box{text-align: center;}
+
+.legend-box{font-size: 33px; padding: 10px 12px 0 17px; margin-right: 0;}
+
+/*How*/
+
+#how{
+	background-color: #c0cf3b;
+    padding-bottom: 35px;
+}
+
+#how p{
+	color: white;
+}
+
+
+/*Main Objectives*/
+
+.bold{
+	font-weight: bold;
+}
+
+.objs{
+	margin: 10px 10px 35px 10px;
+	font-size: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+/*Pros and cons*/
+
+#pc{
+	background-color: #c0cf3b;
+	padding: 5px 7px 20px 7px;
+}
+
+.pros,.cons{
+	font-size: 20px;
+}
+
+.pc{font-family: 'Yanone Kaffeesatz', sans-serif;}
+
+h3{padding: 5px 17px 5px 17px; font-family: 'Staatliches', cursive;}
+
+#contact{
+	background-color: #518DBC;
+	
+}
+
+.icons{
+	padding: 30px;
+	text-align: center;
+}
+
+.fas, .fab{
+	color: white;
+	font-size: 35px;
+	transition-duration: .3s;
+	margin: 40px 45px;
+}
+
+.fas:hover, .fab:hover{
+	color: #c0cf3b;
+}
+
+.copy{color: silver; font-size: 10px; margin-bottom: 0; text-align: center;}
